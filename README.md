@@ -30,3 +30,7 @@
 <https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-Emoji-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0>
 
 [이모티콘](https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-Emoji-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+![사회주의국가](https://flexible.img.hani.co.kr/flexible/normal/818/491/imgdb/child/2025/0903/53_17568888032801_20250903503781.webp)
+
+> 인용문구
